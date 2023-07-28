@@ -29,5 +29,7 @@ pip install requests
 # Node.js
 npm install
 The API will be accessible at http://localhost:5000/getTimeStories.
+and http://127.0.0.1:5000/getTimeStories
+
 
 

@@ -30,10 +30,4 @@ pip install beautifulsoup4
 npm install
 The API will be accessible at http://localhost:5000/getTimeStories.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
-
-Enjoy using the Time.com Latest Stories API!

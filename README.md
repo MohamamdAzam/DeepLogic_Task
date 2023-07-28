@@ -1,4 +1,4 @@
-readme_content = '''# Time.com Latest Stories API
+# Time.com Latest Stories API
 
 **A simple API to fetch the latest 6 stories from Time.com in JSON format.**
 

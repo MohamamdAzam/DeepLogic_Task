@@ -23,7 +23,6 @@ Example Response:
 ]
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
-
 # Python
 pip install requests
 pip install beautifulsoup4
